@@ -1,5 +1,5 @@
 #Project name 
-Heart Failure Prediction
+>Heart Failure Prediction
 
 ##Table of contents
 * [Introduction] (#general-info)
