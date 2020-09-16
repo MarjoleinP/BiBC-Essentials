@@ -1,70 +1,105 @@
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-#Project name
+## Project name
+
 Heart Failure Prediction
 
-\#\#Table of contents \* \[Introduction\] (\#general-info) \* \[Aim\]
-(\#Aim) \* \[Data files\] (\#Data files) \* [Datatypes](#datatypes)
-(\#Datatypes) \* \[Data analysis\] (\#Data analysis) \*
-\[Acknowledgements\] (\#Acknowledgements)
+## Table of contents
 
-Introduction
----------
-Cardiovascular diseases (CVD) is one of the most
-leading cause of death worldwide. Heart failure is a common event caused
-by CVDs and this dataset contains 12 features that can be used to
-predict mortality by heart failure.
+  - [Introduction](#Introduction)
+  - [Aim](#Aim)
+  - [Data files](#Data%20files)
+  - [Data types](#Datatypes)
+  - [Data analysis](#Data%20analysis)
+  - [Acknowledgements](#Acknowledgements)
 
-Aim
----------
-Creating a model for predicting mortality caused by Heart
-Failure
+## Introduction
 
-Data files
----------
+Cardiovascular diseases (CVD) is one of the most leading cause of death
+worldwide. Heart failure is a common event caused by CVDs and this
+dataset contains 12 features that can be used to predict mortality by
+heart failure.
+
+## Aim
+
+Creating a model for predicting mortality caused by Heart Failure
+
+## Data files
+
 The used dataset is available at
-<a href="https://www.kaggle.com/andrewmvd/heart-failure-clinical-data" class="uri">https://www.kaggle.com/andrewmvd/heart-failure-clinical-data</a>.
-It comprises data of 299 people with 12 features used to predict
-mortality by heart failure.
+<https://www.kaggle.com/andrewmvd/heart-failure-clinical-data>. It
+comprises data of 299 people with 12 features used to predict mortality
+by heart failure.
 
-Datatypes
----------
+## Data types
 
 Datatypes in the dataset are:
 
-### 1. Age
+### 1\. PatientAge
 
-### 2. Anaemia
+Results taken from patients aged 40 - 95 years old.
 
-### 3. CreatininePhosphokinase
+### 2\. Anaemia
 
-### 4. Diabetes
+Boolean when true representing the red blood cell count in the patient.A
+patient is considered having aneamia if haematocrit levels are below
+36%.
 
-### 5. EjectionFraction
+### 3\. CreatininePhosphokinaseLevel
 
-### 6. BloodPressureHigh
+Level of CPK protein in the blood in mcg/L.
 
-### 7. Platelets
+### 4\. Diabetes
 
-### 8. CreatineSerum
+Boolean when true representing the patient having from diabetes.
 
-### 9. SodiumSerum
+### 5\. EjectionFraction
 
-### 10. Sex
+The percentage of the total volume pumped out by the left heart chamber.
 
-### 11. Smoking
+### 6\. HighBloodPressure
 
-### 12. Time
+Boolean representing the patient having High Blood Pressure
+(hypertension).
 
-### 13. DeathEvent
+### 7\. Platelets
 
-Data analysis
----------
+Level of platelets in the blood in kiloplatelets/ml.
+
+### 8\. CreatineSerumLevel
+
+Level of serum creatine in the blood in mg/dL.
+
+### 9\. SodiumSerumLevel
+
+Level of serum Sodium in the blood in mEq/l
+
+### 10\. Sex
+
+Boolean representing the sex, 1 is men and 0 is woman. 100 men and 190
+woman participated in the study.
+
+### 11\. Smoking
+
+Boolean representing the smoking behavior, true if smoking.
+
+### 12\. Time
+
+Time in days representing the days before the follow-up examination.
+
+### 13\. DeathEvent
+
+Boolean states if the patient died or survived before the end of the
+follow up period.
+
+## Data analysis
+
 Data was analysed by…
 
-Acknowledgements 
----------
-Davide Chicco, Giuseppe Jurman: Machine learning
-can predict survival of patients with heart failure from serum
-creatinine and ejection fraction alone. BMC Medical Informatics and
-Decision Making 20, 16 (2020). (link) Under CC BY 4.0 license
+## Acknowledgements
+
+Davide Chicco, Giuseppe Jurman: Machine learning can predict survival of
+patients with heart failure from serum creatinine and ejection fraction
+alone. BMC Medical Informatics and Decision Making 20, 16 (2020). (link)
+Under CC BY 4.0 license
