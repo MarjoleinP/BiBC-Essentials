@@ -1,12 +1,17 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-#Project name
+Project name
+---------
 Heart Failure Prediction
 
-\#\#Table of contents \* \[Introduction\] (\#general-info) \* \[Aim\]
-(\#Aim) \* \[Data files\] (\#Data files) \* [Datatypes](#datatypes)
-(\#Datatypes) \* \[Data analysis\] (\#Data analysis) \*
-\[Acknowledgements\] (\#Acknowledgements)
+Table of contents
+---------
+*[Introduction](#Introduction) 
+*[Aim](#Aim) 
+*[Data files](#Data files) 
+*[Datatypes](#Datatypes)
+*[Data analysis](#Data analysis)
+*[Acknowledgements](#Acknowledgements)
 
 Introduction
 ---------
