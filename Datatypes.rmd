@@ -8,6 +8,7 @@ output: html_notebook
 Datatypes in the dataset are:
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 1. PatientAge
 Results taken from patients aged 40 - 95 years old.  
 # 2. Anaemia
@@ -49,3 +50,18 @@ Boolean states if the patient died or survived before the end of the follow up p
 12. Time
 13. DeathEvent
 >>>>>>> 6e18ba6739df8287725ef31cb0f12863067b1f6e
+=======
+# 1. Age
+# 2. Anaemia
+# 3. CreatininePhosphokinase
+# 4. Diabetes
+# 5. EjectionFraction
+# 6. BloodPressureHigh
+# 7. Platelets
+# 8. CreatineSerum
+# 9. SodiumSerum
+# 10. Sex
+# 11. Smoking
+# 12. Time
+# 13. DeathEvent
+>>>>>>> 6a45f0dfea07636540b9ac00a27001bfe4fb89cc
