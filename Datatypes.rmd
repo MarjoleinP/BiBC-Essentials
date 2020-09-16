@@ -7,8 +7,6 @@ output: html_notebook
 
 Datatypes in the dataset are:
 
-<<<<<<< HEAD
-<<<<<<< HEAD
  1. PatientAge
 Results taken from patients aged 40 - 95 years old.  
  2. Anaemia
