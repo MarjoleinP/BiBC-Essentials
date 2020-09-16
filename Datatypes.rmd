@@ -9,59 +9,30 @@ Datatypes in the dataset are:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-# 1. PatientAge
+ 1. PatientAge
 Results taken from patients aged 40 - 95 years old.  
-# 2. Anaemia
+ 2. Anaemia
 Boolean when true representing the red blood cell count in the patient.A patient is considered having aneamia if haematocrit levels are below 36%. 
-# 3. CreatininePhosphokinaseLevel
+ 3. CreatininePhosphokinaseLevel
 Level of CPK protein in the blood in mcg/L.
-# 4. Diabetes
+ 4. Diabetes
 Boolean when true representing the patient having from diabetes. 
-# 5. EjectionFraction
+ 5. EjectionFraction
 The percentage of the total volume pumped out by the left heart chamber.
-# 6. HighBloodPressure
+ 6. HighBloodPressure
 Boolean representing the patient having High Blood Pressure (hypertension).
-# 7. Platelets
+ 7. Platelets
 Level of platelets in the blood in kiloplatelets/ml.
-# 8. CreatineSerumLevel
+ 8. CreatineSerumLevel
 Level of serum creatine in the blood in mg/dL.
-# 9. SodiumSerumLevel
+ 9. SodiumSerumLevel
 Level of serum Sodium in the blood in mEq/l
-# 10. Sex
+ 10. Sex
 Boolean representing the sex, 1 is men and 0 is woman. 100 men and 190 woman participated in the study. 
-# 11. Smoking
+ 11. Smoking
 Boolean representing the smoking behavior, true if smoking. 
-# 12. Time
+ 12. Time
 Time in days representing the days before the follow-up examination. 
-# 13. DeathEvent
+ 13. DeathEvent
 Boolean states if the patient died or survived before the end of the follow up period.
-=======
-1. Age
-2. Anaemia
-3. CreatininePhosphokinase
-4. Diabetes
-5. EjectionFraction
-6. BloodPressureHigh
-7. Platelets
-8. CreatineSerum
-9. SodiumSerum
-10. Sex
-11. Smoking
-12. Time
-13. DeathEvent
->>>>>>> 6e18ba6739df8287725ef31cb0f12863067b1f6e
-=======
-# 1. Age
-# 2. Anaemia
-# 3. CreatininePhosphokinase
-# 4. Diabetes
-# 5. EjectionFraction
-# 6. BloodPressureHigh
-# 7. Platelets
-# 8. CreatineSerum
-# 9. SodiumSerum
-# 10. Sex
-# 11. Smoking
-# 12. Time
-# 13. DeathEvent
->>>>>>> 6a45f0dfea07636540b9ac00a27001bfe4fb89cc
+
